@@ -1,0 +1,9 @@
+C:\Users\guilh\OneDrive\Área de Trabalho\Treinando\BibliotecaApi\Biblioteca.Domain\obj\Debug\netstandard2.0\Biblioteca.Domain.csprojAssemblyReference.cache
+C:\Users\guilh\OneDrive\Área de Trabalho\Treinando\BibliotecaApi\Biblioteca.Domain\obj\Debug\netstandard2.0\Biblioteca.Domain.AssemblyInfoInputs.cache
+C:\Users\guilh\OneDrive\Área de Trabalho\Treinando\BibliotecaApi\Biblioteca.Domain\obj\Debug\netstandard2.0\Biblioteca.Domain.AssemblyInfo.cs
+C:\Users\guilh\OneDrive\Área de Trabalho\Treinando\BibliotecaApi\Biblioteca.Domain\obj\Debug\netstandard2.0\Biblioteca.Domain.csproj.CoreCompileInputs.cache
+C:\Users\guilh\OneDrive\Área de Trabalho\Treinando\BibliotecaApi\Biblioteca.Domain\bin\Debug\netstandard2.0\Biblioteca.Domain.deps.json
+C:\Users\guilh\OneDrive\Área de Trabalho\Treinando\BibliotecaApi\Biblioteca.Domain\bin\Debug\netstandard2.0\Biblioteca.Domain.dll
+C:\Users\guilh\OneDrive\Área de Trabalho\Treinando\BibliotecaApi\Biblioteca.Domain\bin\Debug\netstandard2.0\Biblioteca.Domain.pdb
+C:\Users\guilh\OneDrive\Área de Trabalho\Treinando\BibliotecaApi\Biblioteca.Domain\obj\Debug\netstandard2.0\Biblioteca.Domain.dll
+C:\Users\guilh\OneDrive\Área de Trabalho\Treinando\BibliotecaApi\Biblioteca.Domain\obj\Debug\netstandard2.0\Biblioteca.Domain.pdb
