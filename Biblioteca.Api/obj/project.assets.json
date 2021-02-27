@@ -7065,11 +7065,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Users\\guilh\\OneDrive\\Área de Trabalho\\Treinando\\BibliotecaApi\\Biblioteca.Api\\BibliotecaApi.csproj",
+      "projectUniqueName": "C:\\Users\\guilh\\OneDrive\\Documentos\\GitHub\\BibliotecaApi\\Biblioteca.Api\\BibliotecaApi.csproj",
       "projectName": "BibliotecaApi",
-      "projectPath": "C:\\Users\\guilh\\OneDrive\\Área de Trabalho\\Treinando\\BibliotecaApi\\Biblioteca.Api\\BibliotecaApi.csproj",
+      "projectPath": "C:\\Users\\guilh\\OneDrive\\Documentos\\GitHub\\BibliotecaApi\\Biblioteca.Api\\BibliotecaApi.csproj",
       "packagesPath": "C:\\Users\\guilh\\.nuget\\packages\\",
-      "outputPath": "C:\\Users\\guilh\\OneDrive\\Área de Trabalho\\Treinando\\BibliotecaApi\\Biblioteca.Api\\obj\\",
+      "outputPath": "C:\\Users\\guilh\\OneDrive\\Documentos\\GitHub\\BibliotecaApi\\Biblioteca.Api\\obj\\",
       "projectStyle": "PackageReference",
       "configFilePaths": [
         "C:\\Users\\guilh\\AppData\\Roaming\\NuGet\\NuGet.Config",
@@ -7085,11 +7085,11 @@
       "frameworks": {
         "netcoreapp3.1": {
           "projectReferences": {
-            "C:\\Users\\guilh\\OneDrive\\Área de Trabalho\\Treinando\\BibliotecaApi\\Biblioteca.Domain\\Biblioteca.Domain.csproj": {
-              "projectPath": "C:\\Users\\guilh\\OneDrive\\Área de Trabalho\\Treinando\\BibliotecaApi\\Biblioteca.Domain\\Biblioteca.Domain.csproj"
+            "C:\\Users\\guilh\\OneDrive\\Documentos\\GitHub\\BibliotecaApi\\Biblioteca.Domain\\Biblioteca.Domain.csproj": {
+              "projectPath": "C:\\Users\\guilh\\OneDrive\\Documentos\\GitHub\\BibliotecaApi\\Biblioteca.Domain\\Biblioteca.Domain.csproj"
             },
-            "C:\\Users\\guilh\\OneDrive\\Área de Trabalho\\Treinando\\BibliotecaApi\\Biblioteca.Infra\\Biblioteca.Infra.csproj": {
-              "projectPath": "C:\\Users\\guilh\\OneDrive\\Área de Trabalho\\Treinando\\BibliotecaApi\\Biblioteca.Infra\\Biblioteca.Infra.csproj"
+            "C:\\Users\\guilh\\OneDrive\\Documentos\\GitHub\\BibliotecaApi\\Biblioteca.Infra\\Biblioteca.Infra.csproj": {
+              "projectPath": "C:\\Users\\guilh\\OneDrive\\Documentos\\GitHub\\BibliotecaApi\\Biblioteca.Infra\\Biblioteca.Infra.csproj"
             }
           }
         }

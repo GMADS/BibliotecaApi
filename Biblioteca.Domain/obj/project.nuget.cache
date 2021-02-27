@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "EoWMJtA8zOZ7tkxie4SI9MgHYk3DVgydVi8McLIVSEvgLF7VJNPSZrwYzSccwErCfbRuqlxsJe6Y/sO04rH24w==",
+  "dgSpecHash": "BNIW0081p4JznUmg0BKb9dx+kF0DSWvNqRWKLfLG7dXVE7h19dzfuy3Q/s+fs8L8FzKaTmLaQ24e6WaGiRCgwA==",
   "success": true,
-  "projectFilePath": "C:\\Users\\guilh\\OneDrive\\Área de Trabalho\\Treinando\\BibliotecaApi\\Biblioteca.Domain\\Biblioteca.Domain.csproj",
+  "projectFilePath": "C:\\Users\\guilh\\OneDrive\\Documentos\\GitHub\\BibliotecaApi\\Biblioteca.Domain\\Biblioteca.Domain.csproj",
   "expectedPackageFiles": [
     "C:\\Users\\guilh\\.nuget\\packages\\microsoft.netcore.platforms\\1.1.0\\microsoft.netcore.platforms.1.1.0.nupkg.sha512",
     "C:\\Users\\guilh\\.nuget\\packages\\netstandard.library\\2.0.3\\netstandard.library.2.0.3.nupkg.sha512"

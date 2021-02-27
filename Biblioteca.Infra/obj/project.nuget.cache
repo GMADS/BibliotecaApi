@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "iJF0ksOZvmW4bnSVBxil6uO3uoiJGvT0xJDRBGPUybNnObDljrHzf2e/VNKu6pYyTU9lmtheHWd+JyONTdtlNw==",
+  "dgSpecHash": "dcn5Xwll6TJnC5McmGm5LHCq0cWsi5PoZY6HTP/DwnqzTZUvRQM4XEMbVNRERfH5rrVUweNA52QaCORt4N/Jsw==",
   "success": true,
-  "projectFilePath": "C:\\Users\\guilh\\OneDrive\\Área de Trabalho\\Treinando\\BibliotecaApi\\Biblioteca.Infra\\Biblioteca.Infra.csproj",
+  "projectFilePath": "C:\\Users\\guilh\\OneDrive\\Documentos\\GitHub\\BibliotecaApi\\Biblioteca.Infra\\Biblioteca.Infra.csproj",
   "expectedPackageFiles": [
     "C:\\Users\\guilh\\.nuget\\packages\\microsoft.bcl.asyncinterfaces\\1.1.0\\microsoft.bcl.asyncinterfaces.1.1.0.nupkg.sha512",
     "C:\\Users\\guilh\\.nuget\\packages\\microsoft.bcl.hashcode\\1.1.0\\microsoft.bcl.hashcode.1.1.0.nupkg.sha512",
