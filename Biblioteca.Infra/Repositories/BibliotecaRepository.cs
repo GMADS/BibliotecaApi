@@ -1,3 +1,4 @@
+using System;
 using System.Collections.Generic;
 using System.Linq;
 using Biblioteca.Domain.Entities;
@@ -36,10 +37,16 @@ namespace Biblioteca.Infra.Repositories
 
         public Livros ObterPorId(int id)
         {
-            return _context.Bibliotecas.FirstOrDefault(x => x.Id == id);
+            try
+            {
+                return _context.Bibliotecas.FirstOrDefault(x => x.Id == id);
+            }
+            catch (System.Exception ex)
+            {
+                
+                throw new ArgumentException("Erro ao obter livro");
+            }
         }
-
-
         public void RemoverBiblioteca(Livros biblioteca)
         {
             _context.Remove(biblioteca);

@@ -20,15 +20,20 @@ namespace BibliotecaApi.Controllers
         [HttpGet("Info")]
         public IActionResult ObterBiblioteca(int id)
         {
-            var bibliotecaAntiga = _repositorio.ObterPorId(id);
-            if(bibliotecaAntiga == null)
+            try
             {
-                return NotFound();
+                var bibliotecaAntiga = _repositorio.ObterPorId(id);
+                if(bibliotecaAntiga == null)
+                {
+                    return NotFound();
+                }
+                return Ok(bibliotecaAntiga);            
             }
-
-            return Ok(bibliotecaAntiga);            
+            catch (System.Exception ex)
+            {            
+                throw ex;
+            }
         }
-
         [HttpGet("Todos")]
         public IActionResult ObterBiblioteca()
         {
